@@ -16,25 +16,8 @@ Este es un microservicio desarrollado en **Spring Boot** que se conecta a la API
 ## Ejemplo Request & Response
 - GET http://localhost:8080/chat?theme=pizza&total=4 
 
-- [
-  {
-    "url": "https://example.com/pizza",
-    "description": "En este sitio puedes encontrar recetas deliciosas de pizza, consejos sobre ingredientes y técnicas de cocción.",
-    "rating": 4.5
-  },
-  {
-    "url": "https://pizzaexpert.com",
-    "description": "Pizza Expert ofrece una amplia variedad de pizzas gourmet, con una calificación de 4.7 estrellas.",
-    "rating": 4.7
-  },
-  {
-    "url": "https://pizzamagazine.com",
-    "description": "La mejor revista de pizza, con artículos sobre historia y variedades de pizza en todo el mundo.",
-    "rating": 4.0
-  },
-  {
-    "url": "https://pizzasuper.com",
-    "description": "Pizza Super es un servicio de entrega de pizza rápida con calificaciones de usuarios que la catalogan como la mejor opción.",
-    "rating": 4.3
-  }
-] **
+- [Pizza Recipes](https://example.com/pizza): En este sitio puedes encontrar recetas deliciosas de pizza, consejos sobre ingredientes y técnicas de cocción. **Calificación**: 4.5 estrellas
+- [Pizza Expert](https://pizzaexpert.com): Pizza Expert ofrece una amplia variedad de pizzas gourmet, con una calificación de 4.7 estrellas. **Calificación**: 4.7 estrellas
+- [Pizza Magazine](https://pizzamagazine.com): La mejor revista de pizza, con artículos sobre historia y variedades de pizza en todo el mundo. **Calificación**: 4.0 estrellas
+- [Pizza Super](https://pizzasuper.com): Pizza Super es un servicio de entrega de pizza rápida con calificaciones de usuarios que la catalogan como la mejor opción. **Calificación**: 4.3 estrellas
+ **
