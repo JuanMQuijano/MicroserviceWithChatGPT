@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: GPTMicroservice
+  ai:
+    openai:
+      api-key: ******************
+      chat:
+        options:
+          model: gpt-4o-mini
