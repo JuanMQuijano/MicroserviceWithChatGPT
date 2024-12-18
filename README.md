@@ -14,8 +14,9 @@ Este es un microservicio desarrollado en **Spring Boot** que se conecta a la API
 - **Dependencia de la API de GPT**
 
 ## Ejemplo Request & Response
-** GET http://localhost:8080/chat?theme=pizza&total=4 **
-**[
+- GET http://localhost:8080/chat?theme=pizza&total=4 
+
+- [
   {
     "url": "https://example.com/pizza",
     "description": "En este sitio puedes encontrar recetas deliciosas de pizza, consejos sobre ingredientes y técnicas de cocción.",
